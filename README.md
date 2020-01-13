@@ -6,4 +6,4 @@ Look through the files with the prefix scr_ (script prefix) to see the C# script
 
 Here are some images showcasing the game:
 
-![Tutorial](SHOOT/Shoot1.jpg)
+![Tutorial](/Shoot1.jpg)
