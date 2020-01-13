@@ -7,3 +7,13 @@ Look through the files with the prefix scr_ (script prefix) to see the C# script
 Here are some images showcasing the game:
 
 ![Tutorial](/Shoot1.jpg)
+
+![Image1](/Shoot2.jpg)
+
+![Image2](/Shoot3.jpg)
+
+![Image3](/Shoot4.jpg)
+
+![Image4](/Shoot5.jpg)
+
+![Image5](/Shoot6.jpg)
